@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/static/css/main.6261c26a.chunk.css",
+    "main.js": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/static/js/main.18941e0f.chunk.js",
+    "main.js.map": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/static/js/main.18941e0f.chunk.js.map",
+    "runtime-main.js": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/static/js/runtime-main.075150c6.js",
+    "runtime-main.js.map": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/static/js/runtime-main.075150c6.js.map",
+    "static/js/2.6044c2a3.chunk.js": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/static/js/2.6044c2a3.chunk.js",
+    "static/js/2.6044c2a3.chunk.js.map": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/static/js/2.6044c2a3.chunk.js.map",
+    "index.html": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/index.html",
+    "precache-manifest.62fdac15efc71381f493de6f490b3e77.js": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/precache-manifest.62fdac15efc71381f493de6f490b3e77.js",
+    "service-worker.js": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/service-worker.js",
+    "static/css/main.6261c26a.chunk.css.map": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/static/css/main.6261c26a.chunk.css.map",
+    "static/js/2.6044c2a3.chunk.js.LICENSE.txt": "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/static/js/2.6044c2a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.075150c6.js",
+    "static/js/2.6044c2a3.chunk.js",
+    "static/css/main.6261c26a.chunk.css",
+    "static/js/main.18941e0f.chunk.js"
+  ]
+}
