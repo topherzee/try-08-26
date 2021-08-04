@@ -1,5 +1,5 @@
 title: 'React: Basic'
-templateScript: /react-minimal-lm/webresources/build/index.html
+templateScript: http://localhost:3000/react-minimal-lm/webresources/build/index.html
 dialog: spa-lm:pages/basic
 
 renderType: spa
