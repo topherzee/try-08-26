@@ -4,7 +4,7 @@ The Visual SPA Editor allows authors to edit your headless frontend, reducing yo
 
 This demo shows you how to use the basic features for React.
 
-hello-saas environment
+MAIN
 
 ![The App](_dev/README-screenshot-app.png)
 
