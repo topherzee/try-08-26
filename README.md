@@ -4,10 +4,6 @@ The Visual SPA Editor allows authors to edit your headless frontend, reducing yo
 
 This demo shows you how to use the basic features for React.
 
-Test
-
-TO DO: Update tutorial
-
 ![The App](_dev/README-screenshot-app.png)
 
 ## TODO
