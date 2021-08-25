@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/precache-manifest.62fdac15efc71381f493de6f490b3e77.js"
+  "/magnoliaAuthor/.resources/react-minimal-lm/webresources/build/precache-manifest.70b92060a24067466d036028586d4243.js"
 );
 
 self.addEventListener('message', (event) => {

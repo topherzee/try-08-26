@@ -1,8 +1,0 @@
-!content-type:pages
-name: pages-app
-label: Pages
-
-#Optionally override any of the app configuration supplied by the content type.
-subApps:
-  detail:
-    label: Pages Detail

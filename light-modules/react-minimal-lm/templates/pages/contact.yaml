@@ -1,12 +1,11 @@
-title: 'React: Contact Us'
-templateScript: http://localhost:3000/react-minimal-lm/webresources/build/index.html
+title: 'React: Contact'
+url: https://hello-saas.netlify.app/
 dialog: spa-lm:pages/basic
 
 renderType: spa
 class: info.magnolia.rendering.spa.renderer.SpaRenderableDefinition
 
 areas:
-
   main:
     title: Main Area
     availableComponents:

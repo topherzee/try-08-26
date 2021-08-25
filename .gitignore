@@ -1,5 +1,8 @@
 apache-tomcat
 downloads
+build
+
+.config-env
 
 /**/webresources/build/
 /**/angular-minimal-lm/webresources/
