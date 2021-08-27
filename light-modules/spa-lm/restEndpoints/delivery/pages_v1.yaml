@@ -1,6 +1,6 @@
 class: info.magnolia.rest.delivery.jcr.v2.JcrDeliveryEndpointDefinition
 workspace: website
-depth: 2
+depth: 3
 bypassWorkspaceAcls: true
 systemProperties:
  - mgnl:lastModified
