@@ -7,6 +7,6 @@ form:
       i18n: true
 
     subtext:
-      label: Sub Text
+      label: Sub Headline Text
       $type: textField
       i18n: true
