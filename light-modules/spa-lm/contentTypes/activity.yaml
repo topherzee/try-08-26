@@ -5,7 +5,7 @@ model:
   nodeType: activity
   properties:
     name:
-      label: Name 2
+      label: Name - Main
       i18n: true
       required: true
     description:
