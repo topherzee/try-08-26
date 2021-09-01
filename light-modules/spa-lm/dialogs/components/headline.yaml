@@ -5,8 +5,3 @@ form:
       label: Headline Text
       $type: textField
       i18n: true
-
-    subtext:
-      label: Sub Headline Text
-      $type: textField
-      i18n: true
