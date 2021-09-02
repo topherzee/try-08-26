@@ -11,7 +11,10 @@ model:
       required: true
     description:
       type: richText
-      label: Description - 2
+      label: Description - 6
       i18n: true
       required: false
+      
+    image:
+      type: asset
 
