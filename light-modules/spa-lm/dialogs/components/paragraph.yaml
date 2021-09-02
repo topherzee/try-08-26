@@ -5,4 +5,5 @@ form:
       label: Paragraph Text
       $type: richTextField
       i18n: true
+     
       
