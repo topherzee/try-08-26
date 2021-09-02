@@ -4,8 +4,7 @@ const Paragraph = props =>
 
     <>
         <p className="Paragraph" dangerouslySetInnerHTML={{ __html: props.richText }} />
-        <br/>
-        <div>{props.where}</div>
+        <span> -- <b><i>{props.where}</i></b></span>
     </>;
 
 export default Paragraph;
