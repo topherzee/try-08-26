@@ -13,3 +13,4 @@ areas:
         id: spa-lm:components/paragraph
       Expander:
         id: spa-lm:components/expander
+        
