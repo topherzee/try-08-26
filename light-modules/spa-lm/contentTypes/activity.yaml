@@ -1,6 +1,7 @@
 datasource:
   workspace: activities
   autoCreate: true
+
 model:
   nodeType: activity
   properties:
@@ -10,7 +11,7 @@ model:
       required: true
     description:
       type: richText
-      label: Description
+      label: Description - 2
       i18n: true
       required: false
 
