@@ -7,8 +7,8 @@ form:
       i18n: true
      
     where: 
+      label: Where?
       $type: comboBoxField
-      name: value
       datasource: 
         $type: optionListDatasource
         options:
