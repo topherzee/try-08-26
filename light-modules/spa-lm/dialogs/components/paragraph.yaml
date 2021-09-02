@@ -6,4 +6,15 @@ form:
       $type: richTextField
       i18n: true
      
-      
+    where: 
+      $type: comboBoxField
+      name: value
+      datasource: 
+        $type: optionListDatasource
+        options:
+          - name: outside
+            value: outside
+            label: Outside
+          - name: inside
+            value: inside
+            label: Inside  
