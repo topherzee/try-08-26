@@ -3,10 +3,15 @@ workspace: activities
 bypassWorkspaceAcls: true
 
 references:
+  # - name: assetReference
+  #   propertyName: image
+  #   referenceResolver:
+  #     class: info.magnolia.rest.reference.dam.AssetReferenceResolverDefinition
+
   - name: assetReference
     propertyName: image
-    referenceResolver:
+    referenceResolver: 
       class: info.magnolia.rest.reference.dam.AssetReferenceResolverDefinition
-
-
+      assetRenditions: 
+        - original
       
